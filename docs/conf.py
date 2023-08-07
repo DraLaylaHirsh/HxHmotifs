@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = u'HxHmotifs'
+project = u'MotifHXH'
 copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
 
